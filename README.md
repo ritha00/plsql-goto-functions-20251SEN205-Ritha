@@ -1,7 +1,7 @@
 
 **Course:** Database Development with PL/SQL (INSY 8311)
 **Instructor:** Eric Maniraguha
-**Student:** <MUNEZERO Isimbi Ritha> | **ID:** <20251SEN205>
+**Student:** <MUNEZERO  Isimbi Ritha> | **ID:** <20251SEN205>
 **Assignment:** Individual Assignment III
 
 ## Overview
